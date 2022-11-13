@@ -1,6 +1,7 @@
 ---
 title: How to learn JavaScript
 publish_date: 2022-11-13
+tags: ["JavaScript", "TypeScript", "Nuances", "Learning"]
 ---
 
 These are just some of the tips I wish I knew when I started learning JavaScript
