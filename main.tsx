@@ -12,7 +12,8 @@ blog({
     { title: "Github", url: "https://github.com/leanjunio" },
     { title: "Twitter", url: "https://twitter.com/leanjunio" },
   ],
-  style: `body { background-color: #f0f0f0; } .image {  }`,
+  theme: "dark",
+  style: `.markdown-body ul { list-style: disc !important; } .markdown-body ol { list-style: decimal !important; }`,
   // middlewares: [
 
   // If you want to set up Google Analytics, paste your GA key here.
